@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>-fileC:\Users\Juanchelsea\Desktop\MASTERS\ENGO620\Labs\Lab2\Simulator.bin -polar -elevation0.25 -elevvel0.03 -vrwq0.01 -truthC:\Users\Juanchelsea\Desktop\MASTERS\ENGO620\Labs\Lab2\SimulatorTruth.txt -radius5 -usedoppler</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
